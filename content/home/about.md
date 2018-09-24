@@ -21,11 +21,9 @@ weight = 5
   institution = "Purdue University - West Lafayette"
   year = 2018
 
-
 +++
 
-# Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Introduction
+I am the Student from [Purdue University - West Lafayette](https://www.purdue.edu)<br>
+My major is Industrial Engineering and Minor in Computer Science<br>
+I always consider myself as a person who have passion in programming<br>

@@ -42,4 +42,20 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
+{{< hl >}}Programming Project{{< /hl >}}<br>
+1. Nonlinear Programming Algorithm Revision [(code)](https://github.com/ljw27454788/Line_SQP)<br>
+2. Shortest Path Calculation<br>
+3. File Encoder and Decoder [(code)](https://github.com/ljw27454788/Encoder-and-Decoder)<br>
+4. Chat Room [(code)](https://github.com/ljw27454788/Chat-Room)<br>
+5. 2048 Android Game [(code)](https://github.com/ljw27454788/2048game)<br>
+6. Automatic Refrigerator System Design<br>
+7. Search Engine [(code)](https://github.com/ljw27454788/Search-Engine)<br>
+8. Binary to Thirty Binary number converter [(code)](https://github.com/ljw27454788/Number-Converter)<br>
+<br>
+<br>
 
+{{< hl >}}Other Project{{< /hl >}}<br>
+1. PMU BallRoom Lunch/Dinner Setup efficiency improvement<br>
+2. Manufacturing Layout Optimization Project with Arena<br>
+3. Market Data Analysis with R-Studio<br>
+4. Case Study for Travel Advisor, BMV and Starbucks

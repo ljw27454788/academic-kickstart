@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
+title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -26,3 +26,8 @@ count = 5
 list_format = 1
 +++
 
+>Milab [Client](http://milab.cs.purdue.edu/apks/17abe30e-ea07-49a4-b4eb-bfd1ca87b08d) and [Web](http://milab.cs.purdue.edu) development (June 2018 - Present)
+
+>CYSJCONN Product and Tecnical Support (July 2017 - August 2017)
+
+>[BOCOM](http://www.bankcomm.com/) Lobby Consultant (June 2015 - July 2015)
