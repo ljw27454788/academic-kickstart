@@ -24,6 +24,6 @@ weight = 5
 +++
 
 # Introduction
-I am the Student from [Purdue University - West Lafayette](https://www.purdue.edu)<br>
+I am from [Purdue University - West Lafayette](https://www.purdue.edu)<br>
 My major is Industrial Engineering and Minor in Computer Science<br>
 I always consider myself as a person who have passion in programming<br>
